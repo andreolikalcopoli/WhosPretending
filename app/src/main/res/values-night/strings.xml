@@ -1,20 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application</string>
     <string name="TITLE">Who\'s Pretending</string>
-    <string name="generate_link_description">communicate this session link to all participants.\n Participants need this link to join the game</string>
+    <string name="generate_link_description">communicate this session link to all participants. Participants need this link to join the game</string>
     <string name="back_to_game_list">BACK TO GAME LIST</string>
     <string name="participants">Participants</string>
     <string name="generate_new_session">generate new session</string>
     <string name="copy_session_link">copy session link</string>
     <string name="number_of_connected_users">number of connected users</string>
     <string name="configuration">Configuration</string>
-    <string name="manage_topic">Manage \n Topic</string>
-    <string name="select">Select:</string>
+    <string name="manage_topic">Manage Topic</string>
     <string name="start_game">Start Game</string>
     <string name="database_reset">Database Reset</string>
     <string name="remove">remove</string>
     <string name="presentation_time">Presentation Time</string>
-    <string name="round_time">Round Time</string>
     <string name="topic">Topic</string>
     <string name="enter_a_matching_word_or_phrase_max_20_characters">Enter a matching word or phrase(max 20 characters):</string>
     <string name="select_a_game">Select a Game</string>

@@ -18,4 +18,8 @@
     <string name="select_a_game">Select a Game</string>
     <string name="launch_game">Launch Game</string>
     <string name="current_user_nickname">current user nickname</string>
+    <string name="please_wait_for_other_players_n_to_finish_presenting">Please wait for other players \n to finish presenting</string>
+    <string name="end_game">END GAME</string>
+    <string name="next_round">NEXT ROUND</string>
+    <string name="placeholder_text">Placeholder Text</string>
 </resources>

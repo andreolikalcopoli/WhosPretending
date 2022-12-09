@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name" translatable="false">My Application</string>
     <string name="TITLE">Who\'s Pretending</string>
     <string name="generate_link_description">communicate this session link to all participants.\n Participants need this link to join the game</string>
     <string name="back_to_game_list">BACK TO GAME LIST</string>
@@ -20,4 +20,27 @@
     <string name="select_a_game">Select a Game</string>
     <string name="launch_game">Launch Game</string>
     <string name="current_user_nickname">current user nickname</string>
+    <string name="busted">The Pretender got busted!</string>
+    <string name="topics">topics</string>
+    <string name="art">ART</string>
+    <string name="amusment_park">Amusment Park</string>
+    <string name="body_parts">Body Parts</string>
+    <string name="babies">Babies</string>
+    <string name="bar">Bar</string>
+    <string name="barbecue">Barbecue</string>
+    <string name="baseball">Baseball</string>
+    <string name="basketball">Basketball</string>
+    <string name="bathroom">Bathroom</string>
+    <string name="beach">Beach</string>
+    <string name="birthdays">Birthdays</string>
+    <string name="boat">Boat</string>
+    <string name="car_interior">Car Interior</string>
+    <string name="china_quintessential_things">China: quintessential things</string>
+    <string name="church">Church</string>
+    <string name="thank_you">THANK YOU</string>
+    <string name="please_wait_for_other_players_n_to_finish_presenting...">Please wait for other players \n to finish presenting...</string>
+    <string name="round_disc">round-disc</string>
+    <string name="end_game">END GAME</string>
+    <string name="next_round">NEXT ROUND</string>
+    <string name="placeholder_text">Placeholder Text</string>
 </resources>

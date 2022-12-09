@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="generate_link_description">kommunicera denna sessionslänk till alla deltagare. Deltagare behöver denna länk för att gå med i spelet</string>
+    <string name="back_to_game_list">TILLBAKA TILL SPELLISTAN</string>
+    <string name="participants">Deltagarna</string>
+    <string name="generate_new_session">generera ny session</string>
+    <string name="copy_session_link">"kopiera sessionslänk "</string>
+    <string name="number_of_connected_users">antal anslutna användare</string>
+    <string name="configuration">konfiguration</string>
+    <string name="manage_topic">Hantera ämne</string>
+    <string name="select">Välj</string>
+    <string name="start_game">starta spelet</string>
+    <string name="database_reset">Databasåterställning</string>
+    <string name="remove">ta bort</string>
+    <string name="presentation_time">presentationstid</string>
+    <string name="round_time">runda tiden</string>
+    <string name="topic">ämne</string>
+    <string name="enter_a_matching_word_or_phrase_max_20_characters">ange matchande ord eller fras (max 20 tecken)</string>
+    <string name="select_a_game">Välj ett spel</string>
+    <string name="launch_game">Starta ett spel</string>
+    <string name="current_user_nickname">nuvarande användaren</string>
+    <string name="TITLE">Vem låtsas</string>
+    <string name="busted">Pretendern blev slagen!</string>
+    <string name="topics">Ämnen</string>
+    <string name="art">KONST</string>
+    <string name="amusment_park">Nöjespark</string>
+    <string name="body_parts">Kroppsdelar</string>
+    <string name="babies">Bebisar</string>
+    <string name="bar">Bar</string>
+    <string name="barbecue">Utegrill</string>
+    <string name="baseball">Baseboll</string>
+    <string name="basketball">Basketboll</string>
+    <string name="bathroom">Badrum</string>
+    <string name="beach">Strand</string>
+    <string name="birthdays">Födelsedagar</string>
+    <string name="boat">Båt</string>
+    <string name="car_interior">Bilinteriör</string>
+    <string name="china_quintessential_things">Kina: avgörande saker</string>
+    <string name="church">Kyrka</string>
+</resources>
